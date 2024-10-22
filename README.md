@@ -2,6 +2,7 @@
 
 <!--
 **maily-vannobel/maily-vannobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Maily's GitHub stats](https://github-readme-stats.vercel.app/api?username=maily-vannobel&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
