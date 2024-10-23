@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=maily-vannobel)
+
 ### GitHub Stats
 
 ![Maily's GitHub stats](https://github-readme-stats.vercel.app/api?username=maily-vannobel&hide=stars,prs,issues,contribs&show_icons=true&count_private=true&hide_rank=true&theme=tokyonight)
